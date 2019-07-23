@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/comical_fourier/static/css/main.810118c5.chunk.css",
+    "main.js": "/comical_fourier/static/js/main.2db7e7ae.chunk.js",
+    "main.js.map": "/comical_fourier/static/js/main.2db7e7ae.chunk.js.map",
+    "runtime~main.js": "/comical_fourier/static/js/runtime~main.db36209e.js",
+    "runtime~main.js.map": "/comical_fourier/static/js/runtime~main.db36209e.js.map",
+    "static/js/2.fce1b0e3.chunk.js": "/comical_fourier/static/js/2.fce1b0e3.chunk.js",
+    "static/js/2.fce1b0e3.chunk.js.map": "/comical_fourier/static/js/2.fce1b0e3.chunk.js.map",
+    "index.html": "/comical_fourier/index.html",
+    "precache-manifest.74b504d7afe1a5d32f06246d2d2bebe7.js": "/comical_fourier/precache-manifest.74b504d7afe1a5d32f06246d2d2bebe7.js",
+    "service-worker.js": "/comical_fourier/service-worker.js",
+    "static/css/main.810118c5.chunk.css.map": "/comical_fourier/static/css/main.810118c5.chunk.css.map"
+  }
+}
