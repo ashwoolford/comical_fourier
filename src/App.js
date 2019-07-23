@@ -13,7 +13,7 @@ export class App extends Component {
       <Router>
       <div>
         <MyNavbar />
-        <Route exact path="/" component={Home} />
+        <Route exact path={process.env.PUBLIC_URL + '/'} component={Home} />
         <Route path="/simulate" component={FFTSimulator}></Route>
         <Route path="/about" component={About}></Route>
         <Route path="/projects" component={Projects}></Route>
