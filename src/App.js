@@ -14,9 +14,9 @@ export class App extends Component {
       <div>
         <MyNavbar />
         <Route exact path={process.env.PUBLIC_URL + '/'} component={Home} />
-        <Route path="/simulate" component={FFTSimulator}></Route>
-        <Route path="/about" component={About}></Route>
-        <Route path="/projects" component={Projects}></Route>
+        <Route path={process.env.PUBLIC_URL + "/simulate"} component={FFTSimulator}></Route>
+        <Route path={process.env.PUBLIC_URL + "/about"} component={About}></Route>
+        <Route path={process.env.PUBLIC_URL + "/projects"} component={Projects}></Route>
       </div>
     </Router>
     );
