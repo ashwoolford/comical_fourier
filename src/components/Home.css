@@ -1,0 +1,57 @@
+.jumbotron {
+  margin-top: 1em;
+  margin-bottom: 4em;
+}
+
+.btn-primary {
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  background-color: #2892d7;
+}
+
+h3 {
+  margin-bottom: 1em;
+}
+
+.images_1 {
+    max-width: 50%;
+    height: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+  
+  .images_2 {
+    max-width: 50%;
+    height: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+
+  .images_3 {
+    max-width: 50%;
+    height: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+
+.image_div_1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.image_div_2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+  }
+
+  .iframe_1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;  
+  }

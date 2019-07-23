@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import { Line } from "react-chartjs-2";
+import { Button } from "react-bootstrap";
+import "./Myfft.css"
 var fft = require("fft-js").fft;
 var ifft = require("fft-js").ifft;
 
@@ -73,7 +75,9 @@ export class Myfft extends Component {
     if(this.state.isClicked){
       return (
         <div>
-          <button onClick={() => this.showGraph()}>Perform FFT</button>
+          <div className="performbutton">
+          <Button variant="primary" onClick={() => this.showGraph()}>Perform FFT</Button>
+          </div>
           <div className="psd">
             <Line
               data={this.state.psdData}
@@ -114,8 +118,8 @@ export class Myfft extends Component {
     }
     else{
       return(
-        <div>
-           <button onClick={() => this.showGraph()}>Perform FFT</button>
+        <div className="performbutton">
+           <Button variant="primary" onClick={() => this.showGraph()}>Perform FFT</Button>
         </div> 
       );
     }
