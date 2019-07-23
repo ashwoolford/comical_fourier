@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/comical_fourier/static/css/main.810118c5.chunk.css",
-    "main.js": "/comical_fourier/static/js/main.faea1503.chunk.js",
-    "main.js.map": "/comical_fourier/static/js/main.faea1503.chunk.js.map",
+    "main.js": "/comical_fourier/static/js/main.625cd453.chunk.js",
+    "main.js.map": "/comical_fourier/static/js/main.625cd453.chunk.js.map",
     "runtime~main.js": "/comical_fourier/static/js/runtime~main.db36209e.js",
     "runtime~main.js.map": "/comical_fourier/static/js/runtime~main.db36209e.js.map",
-    "static/js/2.fce1b0e3.chunk.js": "/comical_fourier/static/js/2.fce1b0e3.chunk.js",
-    "static/js/2.fce1b0e3.chunk.js.map": "/comical_fourier/static/js/2.fce1b0e3.chunk.js.map",
+    "static/js/2.a35dcf14.chunk.js": "/comical_fourier/static/js/2.a35dcf14.chunk.js",
+    "static/js/2.a35dcf14.chunk.js.map": "/comical_fourier/static/js/2.a35dcf14.chunk.js.map",
     "index.html": "/comical_fourier/index.html",
-    "precache-manifest.91862732a9a548e92639ded407737ffa.js": "/comical_fourier/precache-manifest.91862732a9a548e92639ded407737ffa.js",
+    "precache-manifest.b94daff64fb2550d7c8a901a684c43c9.js": "/comical_fourier/precache-manifest.b94daff64fb2550d7c8a901a684c43c9.js",
     "service-worker.js": "/comical_fourier/service-worker.js",
     "static/css/main.810118c5.chunk.css.map": "/comical_fourier/static/css/main.810118c5.chunk.css.map"
   }

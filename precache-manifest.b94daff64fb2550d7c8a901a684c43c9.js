@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d2d986db070e440b21c771adf07fe2b",
+    "revision": "4c3746e99c41f0bfc11a074fac9bd02c",
     "url": "/comical_fourier/index.html"
   },
   {
-    "revision": "e5d8cfe18f53ea62fe14",
+    "revision": "655a58a048af4974e649",
     "url": "/comical_fourier/static/css/main.810118c5.chunk.css"
   },
   {
-    "revision": "39668ba9ee0e7a91a6e2",
-    "url": "/comical_fourier/static/js/2.fce1b0e3.chunk.js"
+    "revision": "cce550d8a9024f5e7121",
+    "url": "/comical_fourier/static/js/2.a35dcf14.chunk.js"
   },
   {
-    "revision": "e5d8cfe18f53ea62fe14",
-    "url": "/comical_fourier/static/js/main.faea1503.chunk.js"
+    "revision": "655a58a048af4974e649",
+    "url": "/comical_fourier/static/js/main.625cd453.chunk.js"
   },
   {
     "revision": "54222729d816d8d44953",
