@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/comical_fourier/precache-manifest.9bdb6ad924e083001af58af78dab7521.js"
+  "/comical_fourier/precache-manifest.91862732a9a548e92639ded407737ffa.js"
 );
 
 self.addEventListener('message', (event) => {
