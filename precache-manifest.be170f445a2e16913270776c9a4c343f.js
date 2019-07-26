@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73092a75c542d73b5dd5aa62fb53d9ed",
+    "revision": "dea03eeb68a4e29c1f3108bf641620c7",
     "url": "/comical_fourier/index.html"
   },
   {
-    "revision": "90b09a1dfcf899477fba",
+    "revision": "bd7529eb1a50158b2da7",
     "url": "/comical_fourier/static/css/main.5fa364fa.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/comical_fourier/static/js/2.58f44494.chunk.js"
   },
   {
-    "revision": "90b09a1dfcf899477fba",
-    "url": "/comical_fourier/static/js/main.76a0f7c9.chunk.js"
+    "revision": "bd7529eb1a50158b2da7",
+    "url": "/comical_fourier/static/js/main.fbfe48b0.chunk.js"
   },
   {
     "revision": "54222729d816d8d44953",
