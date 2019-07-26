@@ -17,7 +17,7 @@ export default class Home extends Component {
         <Jumbotron className="jumbotron">
           <h2>Welcome to Comical Fourier</h2>
           <p>
-            Comical Fourier is an Web application for Better understanding of
+            Comical Fourier is a Web application for Better understanding of
             Fourier transformation and Fourier Series.
           </p>
           <Link to="/simulate">
@@ -47,12 +47,9 @@ export default class Home extends Component {
           signal).{" "}
         </p>
         <h4>The Fourier transform is defined by</h4>
-        <div className="image_div_1">
+        <div className="image_div_1_alp">
           <Col>
-            <Image src="assets/f_01.jpg"  className="images_1"/>
-          </Col>
-          <Col>
-            <Image src="assets/f_01.jpg"  className="images_2"/>
+            <Image src="assets/fourier_t_infin.jpg"  className="images_1_alp"/>
           </Col>
           </div>
 

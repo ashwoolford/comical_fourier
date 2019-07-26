@@ -18,6 +18,10 @@ export default class MyNavbar extends Component {
                 <Link to="/" className="nav-bar-link">Home</Link>
               </Nav.Link>
               <Nav.Link>
+                <Link to="/simulate" className="nav-bar-link">Simulate FFT</Link>
+              </Nav.Link>
+
+              <Nav.Link>
                 <Link to="/projects" className="nav-bar-link">Projects</Link>
               </Nav.Link>
               <Nav.Link>
