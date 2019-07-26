@@ -228,7 +228,7 @@ export default class Home extends Component {
         <br/>
         <br/>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/mkGsMWi_j4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mkGsMWi_j4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen className="iframe_1"></iframe>
         <br/>
         <br/>
 
