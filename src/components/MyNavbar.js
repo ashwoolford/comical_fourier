@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import { Navbar, Nav } from "react-bootstrap";
 import "./MyNavbar.css";
+import { Link } from "react-router-dom";
+
 export default class MyNavbar extends Component {
   render() {
     return (
@@ -13,9 +15,9 @@ export default class MyNavbar extends Component {
           <Nav className="mr-auto">
           </Nav>
           <Nav>
-            <Nav.Link eventKey={1} href="/">Home</Nav.Link>
-            <Nav.Link eventKey={1} href="/projects">Projects</Nav.Link>
-            <Nav.Link eventKey={2} href="/about">About</Nav.Link>
+            <Link to="/">Home</Link>
+            <Link to="/projects">Projects</Link>
+            
           </Nav>
         </Navbar.Collapse>
       </Navbar>
