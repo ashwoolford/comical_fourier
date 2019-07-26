@@ -2,25 +2,29 @@ import React, { Component } from "react";
 import "./App.css";
 import MyNavbar from "./components/MyNavbar";
 import Home from "./components/Home"
-import About from "./components/About"
+//import About from "./components/About"
 import Projects from "./components/Projects"
 import FFTSimulator from './components/FFTSimulator'
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter, Route, Link} from "react-router-dom";
 export class App extends Component {
+
   
   render() {
     return (
-      <Router>
+      <HashRouter basename='/'>
       <div>
         <MyNavbar />
-        <Route exact path="/" component={Home} />
+        <Route exact path="/" component={home} />
         <Route path="/simulate" component={FFTSimulator}></Route>
-        <Route path="/about" component={About}></Route>
+        <Route path="/about" component={about}/>
         <Route path="/projects" component={Projects}></Route>
       </div>
-    </Router>
+    </HashRouter>
     );
   }
 }
+
+const home = () => <Home />
+const about = () => <div><h2>about</h2></div>
 
 export default App;

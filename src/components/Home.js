@@ -1,15 +1,12 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import FFTSimulator from "./FFTSimulator";
 import "./Home.css";
 import {
   Jumbotron,
   Container,
-  Row,
   Col,
   Image,
   Button,
-  ListGroup,
   Table
 } from "react-bootstrap";
 
@@ -231,7 +228,8 @@ export default class Home extends Component {
         <br/>
         <br/>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/mkGsMWi_j4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen className="iframe_1"></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mkGsMWi_j4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br/>
         <br/>
 
       </Container>

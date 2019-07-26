@@ -11,12 +11,13 @@
     "react-chartjs-2": "^2.7.6",
     "react-dom": "^16.8.6",
     "react-p5-wrapper": "^2.0.0",
+    "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
   },
   "homepage": "https://ashwoolford.github.io/comical_fourier/",
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
